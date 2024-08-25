@@ -2,8 +2,6 @@
 
 Простой discord-бот, позволяющий следить за количеством игроков на любом сервере Minecraft.
 
-***
-
 ### [Как запустить](#how-run)
 
 ### [Команды бота](#commands)
@@ -44,16 +42,12 @@ pip install -r requirements.txt
 python bot.py
 ```
 
-***
-
 <a name="commands"></a>
 
 ## Команды бота
 
 * **/players {server-ip}** — Узнать онлайн конкретного сервера
 * **/players** — Узнать онлайн сервера по умолчанию (из .env файла)
-
-***
 
 <a name="gallery"></a>
 
